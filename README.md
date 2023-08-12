@@ -1,4 +1,3 @@
-# robospeaker
 # Robo Speaker Application
 
 ![Robo Speaker Demo](demo.gif)
